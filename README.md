@@ -9,4 +9,4 @@
 - 💬 **[TapReply](https://www.tapreply.net)** — AI replies to guest reviews in the guest's language, approved by the owner
 - 🤖 Daily work with AI coding agents: plan → diff → tests → review
 
-🌐 **[antonkozyrev.dev](https://antonkozyrev.dev)** · ✉️ hello@antonkozyrev.dev · 📍 Kaliningrad, remote
+🌐 **[antonkozyrev.dev](https://antonkozyrev.dev)** · 🏢 **[AnKo Software Labs](https://ankosoftlab.com)** · ✉️ hello@antonkozyrev.dev · 📍 Kaliningrad, remote
